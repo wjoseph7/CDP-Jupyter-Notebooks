@@ -132,7 +132,6 @@ plt.show()
 
 
 
-
 """
 #Diagnostics
 residuals = y-lm.predict(X[['0']])
